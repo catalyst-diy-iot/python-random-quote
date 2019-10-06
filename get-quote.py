@@ -12,3 +12,9 @@ def function():
 
 if __name__== "__main__":
   function()
+'''
+Add some more quotes to your text file
+ Print out more than one quote at a time
+ Remove that extra line (called a newline) when printing
+ Learn about file writing and add quotes programmatically
+ '''
